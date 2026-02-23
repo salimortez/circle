@@ -1,3 +1,3 @@
 # circle
-#absoloutly diff with square
+# absoloutly diff with square
 # certainly its not triangle
